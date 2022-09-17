@@ -43,6 +43,7 @@
 
 ### My Github Status:
 
-<a href="https://github.com/SifatNiloy"><img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNiloy)]" alt="Sifat's github status" /></a>
+<a href="https://github.com/SifatNiloy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SifatNiloy&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" /></a>
+
 
 ---
