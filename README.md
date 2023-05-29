@@ -40,9 +40,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ---
-
-### My Github Status:
 <!-- 
+### My Github Status:
+
 <a href="https://github.com/SifatNiloy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SifatNiloy&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="sifat's github status" /></a>
  -->
 
