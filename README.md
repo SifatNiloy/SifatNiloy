@@ -10,7 +10,7 @@
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
 - 🥅 2023 Goals: Want to be a Fullstack Web Developer.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+<!-- - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣 -->
 
 ---
 
@@ -42,8 +42,8 @@
 ---
 
 ### My Github Status:
-
+<!-- 
 <a href="https://github.com/SifatNiloy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SifatNiloy&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="sifat's github status" /></a>
-
+ -->
 
 ---
