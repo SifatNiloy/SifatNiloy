@@ -6,7 +6,7 @@
 
 
 - 🔭 Focusing on FullStack.😎
-- 🌱 I’m currently learning Nodejs ❤
+// - 🌱 I’m currently learning Nodejs ❤
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
 - 🥅 2024 Goals: Want to be a Fullstack Web Developer.
