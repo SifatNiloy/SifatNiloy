@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Nodejs ❤
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
-- 🥅 2023 Goals: Want to be a Fullstack Web Developer.
+- 🥅 2024 Goals: Want to be a Fullstack Web Developer.
 <!-- - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣 -->
 
 ---
