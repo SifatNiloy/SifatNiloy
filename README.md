@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sifat-niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifat-niloy" height="30" width="40" /></a>
 <a href="https://www.behance.net/sifat_niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sifat_niloy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@sifatsworld4106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sifatsworld4106" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sifat's verden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sifat's verden" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sifat-niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sifat-niloy" height="30" width="40" /></a>
 </p>
 
