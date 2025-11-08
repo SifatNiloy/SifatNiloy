@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **typescript, mongoose.**
 
-- 👨‍💻 All of my projects are available at [https://sifatniloy.top/](https://sifatniloy.com/)
+- 👨‍💻 All of my projects are available at [https://sifatniloy.com/](https://sifatniloy.com/)
 
 - 💬 Ask me about **React, javascipt, express.js, mongodb**
 
