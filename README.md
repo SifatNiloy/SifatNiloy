@@ -38,6 +38,12 @@ I’m a **Software Engineer based in Dhaka** specializing in **Backend Architect
 
 ## Tech Stack & Engineering Toolkit
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,postgres,mongodb,redis,docker,git,github,githubactions,postman&theme=light&perline=6" alt="Core Tools & Technologies" />
+</p>
+
+<br />
+
 | Category | Skills & Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
