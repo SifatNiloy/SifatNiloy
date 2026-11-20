@@ -8,7 +8,7 @@
 </a>
 
 <p>
-  <a href="https://sifatniloy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-sifatniloy.netlify.app-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sifatniloy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/sifat-niloy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://drive.google.com/file/d/15BWLdZHd2PBcm5eqou3s8YokqmgbStHn/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-059669?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://www.leetcode.com/sifat-niloy"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
