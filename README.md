@@ -57,11 +57,6 @@ I’m a **Software Engineer based in Dhaka** specializing in **Backend Architect
 
 ## GitHub Analytics
 
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SifatNiloy&show_icons=true&theme=default&title_color=0284C7&icon_color=0284C7&text_color=334155&border_color=E2E8F0" alt="Sifat Niloy GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNiloy&layout=compact&theme=default&title_color=0284C7&text_color=334155&border_color=E2E8F0" alt="Top Languages" />
-</div>
-
 <br />
 
 <div align="center">
